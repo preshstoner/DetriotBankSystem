@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\bin\Debug\DetroitBank.exe.config
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\bin\Debug\DetroitBank.exe
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\bin\Debug\DetroitBank.pdb
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\obj\Debug\DetroitBank.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\obj\Debug\DetroitBank.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\obj\Debug\DetroitBank.exe
+C:\Users\USER\OneDrive\Desktop\C#\DetroitBank\obj\Debug\DetroitBank.pdb
